@@ -1,0 +1,6 @@
+go 1.18
+
+use ./caddyform
+use ./caddygrpc
+use ./caddytmetao
+use ./caddytriple
